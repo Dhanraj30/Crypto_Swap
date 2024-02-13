@@ -1,6 +1,8 @@
 # Cryto_Swap
 Decentralized Crypto and Token swap marketplace
-Crypto_Swap is a decentralized application (dApp) that allows seamless swapping of crypto assets. Whether you want to trade Ethereum (ETH) for tokens, tokens for ETH, or even tokens for other tokens, Kinetex has you covered. Here are its key features:
+Crypto_Swap is a decentralized application (dApp) that allows seamless swapping of crypto assets. Whether you want to trade Ethereum (ETH) for tokens, tokens for ETH, or even tokens for other tokens, Kinetex has you covered. 
+
+Here are its key features:
 
 Swap Any Crypto Assets:
 Swap native crypto assets instantly with the help of professional market makers.
@@ -12,6 +14,7 @@ Built-in protection against front-running (MEV) attacks.
 Easy Wallet Integration:
 Connect any wallet seamlessly—MetaMask, Trust Wallet, or others.
 No complex setup required.
+
 Tech Stack:
 Solidity: Smart contracts for secure asset swaps.
 Hardhat: Development environment for Ethereum.
