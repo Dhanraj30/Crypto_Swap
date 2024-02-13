@@ -14,12 +14,18 @@ Tech Stack: Solidity: Smart contracts for secure asset swaps. Hardhat: Developme
 Explore the Crypto_Swap ecosystem, build multi-chain DeFi apps, and enjoy gasless, efficient trading. 🚀
 
 To run the Dapp-
+
 -clone the git hub repository
+
 -install node modules
+
 -set your private wallet key in hardhat config file for deployment on network 
+
 -deploy smart contract "npx hardhat run scripts/deploy.js --network polygon_mumbai
 "
+
 -update smart contract address to your address in files
+
 -Then run application "npm run dev"
 
 
