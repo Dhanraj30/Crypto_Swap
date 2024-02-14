@@ -35,6 +35,6 @@ To run the Dapp-
 Here is Dapp images 
 Explore the "swap_img" folder to see images.
 
-!https://github.com/Dhanraj30/Cryto_Swap/blob/master/swap_img/Screenshot%20(61).png
+!(https://github.com/Dhanraj30/Cryto_Swap/blob/master/swap_img/Screenshot%20(61).png) 
 
 
