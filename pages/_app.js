@@ -16,7 +16,7 @@ const { chains, provider} = configureChains(
   [chain.polygonMumbai],
   [
     infuraProvider({
-      apiKey: "2b56699f22d44e8a9ec4ce605773515f",
+      apiKey: process.env.INFURA_API_KEY ,
       priority:1,
 
     }),
