@@ -1,4 +1,4 @@
-# Cryto_Swap
+# Crypto_Swap
 Decentralized Crypto and Token swap marketplace
 
  Crypto_Swap is a decentralized application (dApp) that allows seamless swapping of crypto assets. Whether you want to trade Ethereum (ETH) for tokens, tokens for ETH, or even tokens for other tokens, Kinetex has you covered.
@@ -17,7 +17,7 @@ Tailwind CSS: Stylish and responsive UI.
 
 Explore the Crypto_Swap ecosystem, build multi-chain DeFi apps, and enjoy gasless, efficient trading. 🚀
 
-To run the Dapp-
+##To run the Dapp-
 
 -clone the git hub repository
 
@@ -31,5 +31,10 @@ To run the Dapp-
 -update smart contract address to your address in files
 
 -Then run application "npm run dev"
+
+Here is Dapp images 
+Explore the "swap_img" folder to see images.
+
+!(https://github.com/Dhanraj30/Cryto_Swap/blob/master/swap_img/Screenshot%20(61).png) 
 
 
