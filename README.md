@@ -10,9 +10,15 @@ Swap Any Crypto Assets: Swap native crypto assets instantly with the help of pro
 Easy Wallet Integration: Connect any wallet seamlessly—MetaMask, Trust Wallet, or others. No complex setup required.
 
 Tech Stack: 
+
+Next Js use
+
 Solidity: Smart contracts for secure asset swaps. 
+
 Hardhat: Development environment for Ethereum. 
+
 Wagmi: Cross-chain DeFi aggregator. 
+
 Tailwind CSS: Stylish and responsive UI.
 
 Explore the Crypto_Swap ecosystem, build multi-chain DeFi apps, and enjoy gasless, efficient trading. 🚀
